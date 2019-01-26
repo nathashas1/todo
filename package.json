@@ -1,5 +1,27 @@
 {
   "name": "todo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathashas1/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathashas1/todo/issues"
+  },
+  "homepage": "https://github.com/nathashas1/todo#readme"
 }
